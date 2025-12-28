@@ -1,4 +1,4 @@
-# 🧮 Calculator
+🧮 Calculator
 
 A simple command-line calculator built in Python. This project demonstrates core programming concepts such as functions, conditional logic, user input handling, and basic scientific operations.
 
@@ -14,12 +14,12 @@ A simple command-line calculator built in Python. This project demonstrates core
   - Square root
   - Logarithm (base 10)
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required (uses built-in `math` module)
 
-## 🖥️ How to Run
+## How to Run
 
 Open terminal in the project folder and run:
 
